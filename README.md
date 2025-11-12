@@ -1,0 +1,2 @@
+# SuperClaude-Framework-upgrade
+SuperClaude是一个元编程配置框架，通过行为指令注入和组件编排，将Claude Code转换为结构化开发平台。我们在此基础上去优化升级更新迭代
